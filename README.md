@@ -10,4 +10,4 @@
 ### About Me
 
 - 🌱 Currently learning **Python**
-- 🐈 Love cats
+- 🐈 I love cats
