@@ -5,7 +5,7 @@
 
 ---
 
-![alt text](https://media1.tenor.com/m/zcECT7bfjk8AAAAC/hello-lizard.gif)
+<p align='center'><img src="https://media1.tenor.com/m/zcECT7bfjk8AAAAC/hello-lizard.gif"></p>
 
 ### About Me
 
